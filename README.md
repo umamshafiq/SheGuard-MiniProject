@@ -8,7 +8,7 @@ SheGuard stands as the quintessential companion for women, ensuring their safety
 ## Screenshots 📱
 <div align="center">
 <img src="https://github.com/umamshafiq/SheGuard/C:\Projects\SheGuard\banner.jpeg width="15%" /> 
-## Features 🔥
+Features 🔥
 
 - **User Management:**
   - **Login and Registration:** Easy access for users.
